@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86027149209",
+    "project_id": "matchy-b9742",
+    "storage_bucket": "matchy-b9742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86027149209:android:06b750efcf69fccc697d08",
+        "android_client_info": {
+          "package_name": "com.example.matchy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86027149209-ml1fs3apssjju1s61h202n5d84ica5i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACiSDWeqjELNQFHqCfy6C5iDNtLaw-9pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86027149209-ml1fs3apssjju1s61h202n5d84ica5i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
